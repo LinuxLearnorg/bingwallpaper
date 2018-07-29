@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+## Created BY aref
 
 PICTURE_DIR="$HOME/Pictures/bing-wallpapers/"
 
@@ -21,3 +22,5 @@ for p in ${urls[@]}; do
 gsettings set org.gnome.desktop.background picture-uri "file://$PICTURE_DIR/$filename"
 
 done
+## Created BY aref
+
