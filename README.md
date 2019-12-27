@@ -1,3 +1,5 @@
+# Gnome and KDE Bing wallpaper Changer
+
 ### Gnome Desktop
 script to auto download image from Bing and set it as background 
 before you use these two you need some package:
@@ -21,7 +23,8 @@ now you are good to go and test is
 	./Bingwall-gnome2.sh
 
 ### KDE Desktop
-just clone  the repo and make the scripts executable 
+for kde desktop wallpaper changer we are gonna use a python3 scripts named "ksetwallpaper.py"  just download and put it inside your bin directory in your home folder
+clone  the repo and make the scripts executable 
 
 	chmod +x Bingwall-kde*
 
@@ -29,3 +32,8 @@ now you are good to go and test is
 
 	./Bingwall-kde1.sh
 	./Bingwall-kde2.sh
+
+once you run the scripts it will download the latest bing picure and set it as your desktop wallpaper
+feel free to share and develop it
+
+Peace
