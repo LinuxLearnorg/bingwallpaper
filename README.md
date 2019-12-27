@@ -22,7 +22,9 @@ now you are good to go and test is
 
 ### KDE Desktop
 just clone  the repo and make the scripts executable 
+
 	chmod +x Bingwall-kde*
+
 now you are good to go and test is
 
 	./Bingwall-kde1.sh
